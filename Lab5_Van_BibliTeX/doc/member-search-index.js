@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"BibliTeX","c":"UpperCase","l":"getNome()"},{"p":"BibliTeX","c":"UpperCase","l":"transforma(String)","url":"transforma(java.lang.String)"},{"p":"BibliTeX","c":"UpperCase","l":"UpperCase()","url":"%3Cinit%3E()"}]
